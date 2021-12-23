@@ -11,7 +11,7 @@ Understanding the MVC pattern is key to understanding Rails. MVC divides your
 application into three layers: Model, View, and Controller, each with a specific responsibility.
 
 ## Model layer
-
+hello
 The _**Model layer**_ represents the domain model (such as Account, Product,
 Person, Post, etc.) and encapsulates the business logic specific to
 your application. In Rails, database-backed model classes are derived from
